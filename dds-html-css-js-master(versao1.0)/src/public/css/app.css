@@ -1,0 +1,26 @@
+.card{
+border: 8px solid lightblue;
+background-color: yellow;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+margin: 10px;
+margin-top: 10px;
+padding: 10px;
+}
+
+.card2{
+text-align: center;
+border: 8px solid lightblue;
+background-color: yellow;
+margin: -300px;
+margin-top: 10px;
+color: black;
+font-family: Georgia, 'Times New Roman', Times, serif;
+padding: 10px;
+}
+
+body{
+    background: linear-gradient(yellow, lightblue, black);
+    padding: 0 20px 20px 20px;
+
+}
